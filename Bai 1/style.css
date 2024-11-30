@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+.content-img {
+    border: 1px solid gray;
+}
+
+.content-img img {
+    width: 100%;
+    height: auto;
+}
+
+.name-img {
+    padding: 20px;
+    text-align: center;
+}

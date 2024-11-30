@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+.main {
+    display: flex;
+    height: 400px;
+}
+
+.admin-left {
+    display: grid;
+    background-color: blue;
+    width: 20%;
+    align-content: center;
+    justify-content: center;
+}
+
+.admin-right {
+    width: 80%;
+}
+
+.menu-admin {
+    background-color:brown;
+    height: 10%;
+}
+
+.list-user {
+    background-color: bisque;
+    height: 90%;
+}
+
+.product {
+    background-color: #fff;
+    width: 80px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.order {
+    background-color: #fff;
+    width: 80px;
+    padding: 20px;
+}
